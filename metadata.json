@@ -1,0 +1,7 @@
+{
+  "name": "PuroLomo Meat Inventory Control System",
+  "description": "Industrial PWA for high-efficiency meat inventory management, featuring real-time monitoring, cava mapping, and performance analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
